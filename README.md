@@ -14,6 +14,6 @@
 
 #### 力格4
 
-<www.naver.com>
+<http://www.naver.com>
 ##### 力格5
 ###### 力格6
