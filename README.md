@@ -18,6 +18,4 @@
 ##### 이미지
 ![정소민 사랑해](http://bntnews.hankyung.com/bntdata/images/photo/201704/755fb4450e0f0ff3e33c67915ec43f38.jpg)
 
-![키라라](http://image3.gamechosun.co.kr/extend/wlwl_upload/dataroom/df/2017/05/19/695104_1495120044.png)
-
 ###### 제목6
