@@ -18,4 +18,7 @@
 ##### 이미지
 ![정소민 사랑해](http://bntnews.hankyung.com/bntdata/images/photo/201704/755fb4450e0f0ff3e33c67915ec43f38.jpg)
 
-###### 제목6
+###### 참조이미지
+
+![정소민][1]
+![1]: http://bntnews.hankyung.com/bntdata/images/photo/201704/755fb4450e0f0ff3e33c67915ec43f38.jpg
