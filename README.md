@@ -4,7 +4,7 @@
 
 ![하마](https://cdn.clien.net/web/api/file//F01/3814111/f5c88f0ae77c43d7bed.GIF)
 
-##1. 포유류
+## 1. 포유류
 
 ____
 
